@@ -1,4 +1,4 @@
-MagNet: Computing Power Collection and Trading Platform
+#MagNet: Computing Power Collection and Trading Platform
 Overview
 MagNet is an innovative platform designed to address the growing demand for computing power in various industries, especially in fields like artificial intelligence and biomedical applications. The platform connects individuals and enterprises with idle computing resources, enabling efficient utilization and reducing costs associated with computing tasks.
 
